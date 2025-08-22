@@ -1,5 +1,5 @@
 // index.js
-// donde inicia tu aplicación node
+// donde inicia tu aplicación node- ejercicio de FreeCodeCamp terminado
 
 // inicializar proyecto
 require('dotenv').config();
